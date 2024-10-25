@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+          "domain_suffix": [
+          "exhentai.org",
+          "e-hentai.org",
+          "binance-docs.github.io",
+          "javdb.com",
+          "javdb368.com",
+          "c0.jdbstatic.com",
+          "yandex.com"
+        ]
+    }
+  ]
+}
